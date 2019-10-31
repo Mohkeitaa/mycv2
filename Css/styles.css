@@ -8,10 +8,14 @@ h1{
 font-size: 5.63rem;
   font-family:fantasy;
   margin: 3.12% auto 0 auto;
-  color: #66BFBF;
+  color: #eaf6f6;
   line-height: 2;
   width: 50%;
   padding: auto;
+
+}
+h1:hover{
+  color: #66BFBF;
 
 }
 h2{
