@@ -112,8 +112,12 @@ top:40px;
   background-color: #7ed6df;
   position: relative;
   padding-top: 100px;
-
-
+  padding-bottom:100px;
+}
+.header{
+  display: inline;
+  margin-top: 100%;
+}
 
 }
 .middle-container{
